@@ -9,6 +9,6 @@ The purpose is to use the vim plugins.
 
 Goodnight-world
 ===============
-Hi there!
-Today is February 17, 2015. I returned here.
-I'm in the domitory of the RCNP@Osaka for PIXOR beamtest :-}
+Hi there!  
+Today is February 17, 2015. I returned here.  
+I'm in the domitory of the RCNP@Osaka for PIXOR beamtest :-}  
